@@ -1,19 +1,27 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Blackjack Game
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. Test your luck and see if you can hit 21 without going over!
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Live Demo
+- [Click here for demo](https://app.netlify.com/sites/tiny-cascaron-892d6e/configuration/deploys#deploy-notifications)
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Features
+- Start a Game: Draw two cards and calculate their sum.
+- Draw a New Card: Add another card to your hand to get closer to 21.
+- Game Logic: Automatically checks if you've hit Blackjack, are still in the game, or have gone bust.
+- Player Profile: Displays the player's name and available chips.
 
-Happy Coding!
+## How to Play
+- Open the index.html file in your browser.
+- Click the START GAME button to begin.
+- Decide whether to draw a new card by clicking NEW CARD.
+- Try to reach 21 without exceeding it to win!
+
+## Technologies Used
+- HTML: Structure of the game interface.
+- CSS: Styling and layout.
+- JavaScript: Handles the game logic and interactivity.
+
+## License
+
+This project is open source and available under the MIT License.
