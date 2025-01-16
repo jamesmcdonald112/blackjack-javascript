@@ -3,7 +3,7 @@
 A simple browser-based Blackjack game built with HTML, CSS, and JavaScript. Test your luck and see if you can hit 21 without going over!
 
 ## Live Demo
-- [Click here for demo](https://app.netlify.com/sites/tiny-cascaron-892d6e/configuration/deploys#deploy-notifications)
+- [Click here for demo](https://phenomenal-horse-83ba63.netlify.app/)
 
 ## Features
 - Start a Game: Draw two cards and calculate their sum.
